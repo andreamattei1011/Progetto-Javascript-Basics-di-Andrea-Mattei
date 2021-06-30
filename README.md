@@ -4,7 +4,7 @@ Questa è una piccola descrizione del mio progetto di javascript basics
 
 ## Descrizione
 
-In questo progetto ho voluto utilizzare uno stile minimale, in linea con il mio stile personale. Ho fatto un semplice counter con due bottoni, un * e un -, che cambiano colore.
+In questo progetto ho voluto utilizzare uno stile minimale, in linea con il mio stile personale. Ho fatto un semplice counter con due bottoni, un + e un -, che cambiano colore.
 
 ### Creato con
 
